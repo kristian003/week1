@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+
+<html>
+    
+    <head>
+        <title>Basic Template</title> 
+        
+        <style>
+          /* Enter CSS below */  
+        </style>    
+    </head>
+    
+    <body>
+        
+        <p>Hello World!</p>
+        
+        
+        <script>
+            //Enter Javascript here
+            var hello = "hello";
+            var num = 12345;
+        </script>    
+        
+    </body>    
+    
+</html>    
+
+    Contact GitHub API Training Shop Blog About 
+
